@@ -1,5 +1,5 @@
 title: Introducción a Datos
 description: Tareas y trabajos del curso
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
